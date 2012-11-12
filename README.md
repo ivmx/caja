@@ -1,7 +1,7 @@
 caja
 ====
 
-Caja donde guardo experimentos
+Caja donde guardo experimentos, osea es codigo para tirar
 
 Todo
 
